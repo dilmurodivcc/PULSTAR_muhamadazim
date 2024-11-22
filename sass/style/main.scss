@@ -1,0 +1,11 @@
+@import "./veriables";
+@import "./_mixins";
+@import "./base";
+@import "./layout";
+
+
+
+.container {
+    max-width: 1200px;
+    margin:  0 auto;
+}
